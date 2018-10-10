@@ -25,7 +25,7 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | start up the game and let it run | game runs smooth with good transtions between start up meneu and open credits | |			
+| 1 | start up the game and let it run | game runs smooth with good transtions between start up meneu and open credits |(√)|			
 | 2 | from the start menu go down to new game and select | start up menu is resposive to actions commands from controller and couser is visable and moveable  |  |			
 | 3 | |  | |			
 | 4 | | | |			
