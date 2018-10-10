@@ -21,13 +21,13 @@
 * Test Description/Purpose:
   * if the user is trying to save the game with the same file name then it is probaly a continuation of that previosuly saved agme
 * Pre-Test Conditions:
-  *none
+  *game operates 
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
 | 1 | start up the game and let it run | game runs smooth with good transtions between start up meneu and open credits |(√)|			
 | 2 | from the start menu go down to new game and select | start up menu is resposive to actions commands from controller and couser is visable and moveable  |  |			
-| 3 | |  | |			
+| 3 |selcet or pick one of the chacters that are shown in the cahcater selcet screen |all six chacters are shown up and are clear visual. making sure ecah chacter descptons and extra are shown when selcted chacter is higlited.   | |			
 | 4 | | | |			
 | 5 | | | |			
 | 6 | | | |			
