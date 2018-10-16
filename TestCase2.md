@@ -30,7 +30,7 @@
 | 3 |selcet or pick one of the chacters that are shown in the character selcet screen |all six chacters are shown up and are clear visual. making sure ecah chacter descptons and extra are shown when selcted chacter is higlited.   | |			
 | 4 |when loading screen is done loading make a build then save the game |make sure character is playable and respond to players movement control.|✔ |			
 | 5 exit the game then select the saved file and load that file|check to see if saved file load with no problems and no corruption| ✔|			
-| 6 | | | |			
+| 6 | save over your original saved file and leave or quit the game|make sure the saved file is orverwritten and have no error or feedfeedback|✔|			
 | 7 | | | |			
 | 8 | | | |			
 | 9 | | | |			
@@ -43,8 +43,8 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 |10/09/18|Juwan|successful|			
+| 2 |10/11/18 |Juwan|failed|			
+| 3 |10/13/18|Juwan |successful |			
 
 
