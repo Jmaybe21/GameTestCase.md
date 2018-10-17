@@ -27,9 +27,9 @@
 | --- | --- | --- | --- |
 | 1 | start up the game and let it run | game runs smooth with good transtions between start up meneu and open credits |(√)|			
 | 2 | from the start menu go down to new game and select | start up menu is resposive to actions commands from controller and couser is visable and moveable  |(√)|			
-| 3 |selcet or pick one of the chacters that are shown in the character selcet screen |all six chacters are shown up and are clear visual. making sure ecah chacter descptons and extra are shown when selcted chacter is higlited.   | |			
+| 3 |selcet or pick one of the chacters that are shown in the character selcet screen |all six chacters are shown up and are clear visual. making sure ecah chacter descptons and extra are shown when selcted chacter is higlited.   |√ |			
 | 4 |when loading screen is done loading make a build then save the game |make sure character is playable and respond to players movement control.|✔ |			
-| 5 exit the game then select the saved file and load that file|check to see if saved file load with no problems and no corruption| ✔|			
+| 5 |exit the game then select the saved file and load that file|check to see if saved file load with no problems and no corruption| ✔|			
 | 6 | save over your original saved file and leave or quit the game|make sure the saved file is orverwritten and have no error or feedfeedback|✔|			
 | 7 | | | |			
 | 8 | | | |			
