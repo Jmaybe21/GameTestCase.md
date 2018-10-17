@@ -25,7 +25,9 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-					
+| 1 |start the game up and test to see if the games turns on |testing to see game starts up and goes through opening credit music playing and fuctioning right|(√)|
+| 2 |let the start menu run for about a minute to test the music playing and doesn't cut off | test to see if music plays on the menu screen and keeps playing even after the menu is still showed. |(√)|
+| 3 |go to the story mode and play the story mode for about a hour |test the game play and playrhrough a level and seeing if music is still playable or does it stop ant anytime the player is idile. |(√)|				
 | 4 |First test run in build mode. Join an online multiplayer server to see if build mode loads all of the game music and returns the appropriate songs as needed.|Joined an online multiplayer server in build mode that successfully loaded all of the game music and returned the appropriate songs as needed.|√|			
 | 5 |Second test run in build mode. Join an online multiplayer server to see if build mode loads all of the game music and returns the appropriate songs as needed.|Joined an online multiplayer server in build mode that successfully loaded all of the game music and returned the appropriate songs as needed.|√|			
 | 6 |Thrid test run in build mode. Join an online multiplayer server to see if build mode loads all of the game music and returns the appropriate songs as needed.|Joined an online multiplayer server in build mode that successfully loaded all of the game music and returned the appropriate songs as needed.|√|						
